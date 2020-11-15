@@ -10,3 +10,5 @@ which webserver.
 Include in the Ansible playbook,
 -plays to deploy and un
 -deploy the webserver resources.
+
+Test Jenkins integration
